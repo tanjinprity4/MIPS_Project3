@@ -1,6 +1,6 @@
 .data
 	stringfromUser: .space 10000
-	Stringisemptiness: .asciiz "Input is emptiness."
+	Stringisemptiness: .asciiz "Input is empty."
 	StringisInvalid: .asciiz "Invalid base-36 number."
 	long_entry: .asciiz "Input is too long."
 .text                           # Assembly language instructions
